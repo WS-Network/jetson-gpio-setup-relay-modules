@@ -21,7 +21,7 @@ This repository provides a one-command solution for setting up and controlling r
 ### One-Command Setup
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/USERNAME/jetson-gpio-setup-relay-modules/main/jetson_relay_setup.sh | sudo bash
+curl -sSL https://raw.githubusercontent.com/WS-Network/jetson-gpio-setup-relay-modules/main/jetson_relay_setup.sh | sudo bash
 ```
 
 After running the setup script:
